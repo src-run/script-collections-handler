@@ -1,0 +1,24 @@
+libraries:
+  -
+    pkg_naming: 'raspberry-scripts-bash'
+    git_remote: 'https://github.com/robfrawley/raspberry-scripts-bash.git'
+    git_branch: 'master'
+    bin_enable: [
+      '*'
+    ]
+    bin_ignore: [
+      '*-install',
+      '*-remove'
+    ]
+
+  -
+    pkg_naming: 'bash-desktop-scripts'
+    git_remote: 'https://github.com/robfrawley/bash-desktop-scripts.git'
+    git_branch: 'master'
+    bin_enable: [
+      '*'
+    ]
+    bin_ignore: [
+      'send-files.bash',
+      '*.php'
+    ]
