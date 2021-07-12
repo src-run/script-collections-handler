@@ -1,7 +1,7 @@
 
 # The MIT License (MIT)
 
-**Copyright © 2016—2020 Rob Frawley 2nd [rmf@src.run](mailto:rmf@src.run).**
+**Copyright © 2020—2021 Rob Frawley 2nd [rmf@src.run](mailto:rmf@src.run).**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
